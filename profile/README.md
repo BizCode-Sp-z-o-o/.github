@@ -6,7 +6,7 @@
 
 **We build the bridge between your SAP system and everything else.**
 
-*Wrocław, Poland · Since 2016*
+*Wroclaw, Poland · Since 2016*
 
 [![Website](https://img.shields.io/badge/bizcode.pl-003DA5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bizcode.pl)
 [![SAP Partner](https://img.shields.io/badge/SAP_Business_One-Partner-0070F2?style=for-the-badge&logo=sap&logoColor=white)](https://bizcode.pl)
@@ -18,9 +18,9 @@
 
 ### About Us
 
-We are a **SAP Business One Partner** based in Wrocław, Poland, founded in 2016. Our team specializes in enterprise integration, process automation, and custom ERP solutions for mid-market companies across Central and Eastern Europe.
+We are a **SAP Business One Partner** based in Wroclaw, Poland, founded in 2016. We specialize in enterprise integration, process automation, and custom ERP solutions for mid-market companies across Central and Eastern Europe.
 
-What makes us different? We are probably the **most technically hands-on SAP partner** you'll ever meet. We don't just implement - we engineer. Our team builds custom integration platforms, automation pipelines, and developer tools that connect SAP Business One with the rest of your technology stack.
+What makes us different? We are probably the **most technically hands-on SAP partner** you'll ever meet. We don't just implement - we engineer. Our team builds custom integration platforms, automation pipelines, and tools that connect SAP Business One with the rest of your technology stack.
 
 **Industries we serve:** Manufacturing, Distribution & Logistics, Field Service, Wholesale
 
@@ -30,16 +30,14 @@ What makes us different? We are probably the **most technically hands-on SAP par
 
 #### BizCode Integration Platform
 
-A **self-hosted, Node-RED based integration suite** purpose-built for SAP Business One environments. Deployed at ~30 client sites.
+A **self-hosted integration suite** for SAP Business One environments. Running at ~30 client sites.
 
 | | |
 |---|---|
-| **Multi-instance** | Up to 10 independent Node-RED instances per deployment |
-| **SAP B1 Native** | Pre-installed SAP Business One Service Layer connector |
-| **Enterprise Ready** | Redis, RabbitMQ, PostgreSQL, CUPS print server |
-| **Two Deployment Models** | Docker Compose (bare metal) or Helm chart (Kubernetes / Rancher) |
-| **Fully Branded** | Custom UI with BizCode branding and theme |
-| **CI/CD** | Automated build pipeline - push to GitHub, deploy everywhere |
+| **Multi-instance** | Run up to 10 independent integration flows, isolated per system or process |
+| **SAP B1 Native** | Pre-installed SAP Business One Service Layer connector - works out of the box |
+| **Production-grade** | Built for 24/7 operation with message queuing, caching, and print server support |
+| **Flexible deployment** | Runs on a single server (Docker Compose) or across a Kubernetes / Rancher cluster |
 
 | Repository | Description |
 |---|---|
@@ -48,29 +46,28 @@ A **self-hosted, Node-RED based integration suite** purpose-built for SAP Busine
 
 #### BizFlow
 
-Our **enterprise workflow and forms platform** - custom business process automation built on top of SAP Business One. BizFlow handles complex document flows, approvals, and data capture tailored to each client's unique processes.
+**Enterprise workflow and forms platform** - custom business process automation built on top of SAP Business One. Handles complex document flows, approvals, and data capture tailored to each client's unique processes.
 
 #### AGP1 - bizcode365.com
 
-A modern **CRM and sales management platform** designed for B2B companies. Built with .NET 9 and React, featuring pipeline management, organizational settings, RBAC, and deep integration capabilities.
+A modern **CRM and sales management platform** for B2B companies. Pipeline management, team collaboration, role-based access, and deep integration with your existing systems.
 
-🔗 [bizcode365.com](https://bizcode365.com)
+[bizcode365.com](https://bizcode365.com)
 
 ---
 
 ### What We Do
 
 **Integration & Automation**
-- SAP Business One ↔ E-commerce, WMS, EDI, banking, GLS, DPD, InPost
+- SAP Business One connected with e-commerce, WMS, EDI, banking, shipping (GLS, DPD, InPost)
 - KSeF (Polish e-invoicing) integration
-- Custom workflow automation with Node-RED and n8n
+- Custom workflow automation
 - Real-time data synchronization between systems
 
 **On-Premise Infrastructure**
-- Rancher / Kubernetes clusters deployed at client sites
-- High-performance automation and integration pipelines running on-prem
-- Docker-based deployments with full CI/CD
-- Monitoring and observability
+- Rancher / Kubernetes clusters deployed and managed at your site
+- High-performance automation running where your data lives
+- Seamless updates and monitoring - we know when something breaks before you do
 
 **SAP Business One**
 - Implementation & configuration
@@ -84,7 +81,7 @@ A modern **CRM and sales management platform** designed for B2B companies. Built
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP_B1-0070F2?style=flat-square&logo=sap&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
