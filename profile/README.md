@@ -20,7 +20,7 @@
 
 We are a **SAP Business One Partner** based in Wrocław, Poland, founded in 2016. Our ~10-person team specializes in enterprise integration, process automation, and custom ERP solutions for mid-market companies across Central and Eastern Europe.
 
-What makes us different? We are probably the **most technically hands-on SAP partner** you'll ever meet. We don't just implement — we engineer. Our team builds custom integration platforms, automation pipelines, and developer tools that connect SAP Business One with the rest of your technology stack.
+What makes us different? We are probably the **most technically hands-on SAP partner** you'll ever meet. We don't just implement - we engineer. Our team builds custom integration platforms, automation pipelines, and developer tools that connect SAP Business One with the rest of your technology stack.
 
 **Industries we serve:** Manufacturing, Distribution & Logistics, Field Service, Wholesale
 
@@ -39,7 +39,7 @@ A **self-hosted, Node-RED based integration suite** purpose-built for SAP Busine
 | **Enterprise Ready** | Redis, RabbitMQ, PostgreSQL, CUPS print server |
 | **Two Deployment Models** | Docker Compose (bare metal) or Helm chart (Kubernetes / Rancher) |
 | **Fully Branded** | Custom UI with BizCode branding and theme |
-| **CI/CD** | Automated build pipeline — push to GitHub, deploy everywhere |
+| **CI/CD** | Automated build pipeline - push to GitHub, deploy everywhere |
 
 | Repository | Description |
 |---|---|
@@ -48,9 +48,9 @@ A **self-hosted, Node-RED based integration suite** purpose-built for SAP Busine
 
 #### BizFlow
 
-Our **enterprise workflow and forms platform** — custom business process automation built on top of SAP Business One. BizFlow handles complex document flows, approvals, and data capture tailored to each client's unique processes.
+Our **enterprise workflow and forms platform** - custom business process automation built on top of SAP Business One. BizFlow handles complex document flows, approvals, and data capture tailored to each client's unique processes.
 
-#### AGP1 — bizcode365.com
+#### AGP1 - bizcode365.com
 
 A modern **CRM and sales management platform** designed for B2B companies. Built with .NET 9 and React, featuring pipeline management, organizational settings, RBAC, and deep integration capabilities.
 
