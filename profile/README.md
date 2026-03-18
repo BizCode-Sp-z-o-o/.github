@@ -18,7 +18,7 @@
 
 ### About Us
 
-We are a **SAP Business One Partner** based in Wrocław, Poland, founded in 2016. Our ~10-person team specializes in enterprise integration, process automation, and custom ERP solutions for mid-market companies across Central and Eastern Europe.
+We are a **SAP Business One Partner** based in Wrocław, Poland, founded in 2016. Our team specializes in enterprise integration, process automation, and custom ERP solutions for mid-market companies across Central and Eastern Europe.
 
 What makes us different? We are probably the **most technically hands-on SAP partner** you'll ever meet. We don't just implement - we engineer. Our team builds custom integration platforms, automation pipelines, and developer tools that connect SAP Business One with the rest of your technology stack.
 
